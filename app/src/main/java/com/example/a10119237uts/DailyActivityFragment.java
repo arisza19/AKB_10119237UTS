@@ -14,6 +14,13 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import java.util.ArrayList;
 
+/*
+Developed by AriszaZufarFathurrahman
+10119237
+IF6
+on Tuesday, May 24 2022
+*/
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link DailyActivityFragment#newInstance} factory method to

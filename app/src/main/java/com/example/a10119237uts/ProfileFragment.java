@@ -17,6 +17,13 @@ import android.widget.Toast;
 
 import java.util.Locale;
 
+/*
+Developed by AriszaZufarFathurrahman
+10119237
+IF6
+on Tuesday, May 24 2022
+*/
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link ProfileFragment#newInstance} factory method to

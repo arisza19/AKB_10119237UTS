@@ -10,6 +10,13 @@ import android.os.Bundle;
 
 import com.example.a10119237uts.databinding.ActivityHomeBinding;
 
+/*
+Developed by AriszaZufarFathurrahman
+10119237
+IF6
+on Tuesday, May 24 2022
+*/
+
 public class HomeActivity extends AppCompatActivity {
 
     ActivityHomeBinding binding;

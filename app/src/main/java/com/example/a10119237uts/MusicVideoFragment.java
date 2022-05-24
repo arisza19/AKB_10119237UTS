@@ -6,6 +6,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+/*
+Developed by AriszaZufarFathurrahman
+10119237
+IF6
+on Tuesday, May 24 2022
+*/
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link MusicVideoFragment#newInstance} factory method to

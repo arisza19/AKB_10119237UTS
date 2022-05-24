@@ -6,6 +6,13 @@ import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
+/*
+Developed by AriszaZufarFathurrahman
+10119237
+IF6
+on Tuesday, May 24 2022
+*/
+
 public class SlideActivity extends AppCompatActivity {
 
     public static ViewPager viewPager;

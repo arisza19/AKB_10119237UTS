@@ -13,6 +13,13 @@ import java.util.ArrayList;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
+/*
+Developed by AriszaZufarFathurrahman
+10119237
+IF6
+on Tuesday, May 24 2022
+*/
+
 public class GalleryRvAdapter extends RecyclerView.Adapter<GalleryRvAdapter.GalleryViewHolder> {
 
     ArrayList<GalleryModel> dataHolder3;
