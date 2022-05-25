@@ -16,7 +16,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 Developed by AriszaZufarFathurrahman
 10119237
 IF6
-on Tuesday, May 24 2022
+on Tuesday, May 25 2022 at 07.32
 */
 
 public class FriendsRvAdapter extends RecyclerView.Adapter<FriendsRvAdapter.FriendsViewHolder> {

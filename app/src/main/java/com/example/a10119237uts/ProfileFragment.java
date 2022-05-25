@@ -21,7 +21,7 @@ import java.util.Locale;
 Developed by AriszaZufarFathurrahman
 10119237
 IF6
-on Tuesday, May 24 2022
+on Tuesday, May 25 2022 at 07.32
 */
 
 /**
@@ -95,9 +95,7 @@ public class ProfileFragment extends Fragment {
         profile_btn_wa.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "https://api.whatsapp.com/send?phone=+6282213288779";
-                Intent intent = new Intent();
-                intent.setData(Uri.parse(url));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://api.whatsapp.com/send?phone=+6282213288779"));
                 startActivity(intent);
             }
         });
